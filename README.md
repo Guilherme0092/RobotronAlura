@@ -1,2 +1,1 @@
-# RobotronAlura
-Projeto feito durante curso alura
+# robotron-2000
